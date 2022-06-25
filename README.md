@@ -1,2 +1,2 @@
-# desafio-instagram-dio
-Desafio Intagram da DIO
+# Recriando a página inicial do Instagram
+Desafio de projeto DIO, programa Santander Bootcamp Fullstack Developer
